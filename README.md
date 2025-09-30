@@ -13,18 +13,17 @@ Não possui dependências de bibliotecas externas, necessitando apenas de uma in
 
 # Exemplos de Execução
 ## Entrada para o período da manhã:
-
 Digite que horas são agora: 10
 ### Bom dia!
-## Entrada para o período da tarde:
 
+## Entrada para o período da tarde:
 Digite que horas são agora: 15
 ### Boa tarde!
-## Entrada para o período da noite:
 
+## Entrada para o período da noite:
 Digite que horas são agora: 21
 ### Boa noite!
-## Entrada inválida (não numérica):
 
+## Entrada inválida (não numérica):
 Digite que horas são agora: texto
 Digite apenas a hora
