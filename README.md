@@ -1,4 +1,4 @@
-## Saudação por Horário
+# Saudação por Horário
 ### Descrição
 Este é um script em Python que solicita ao usuário que insira a hora atual e, com base nesse valor, exibe a saudação correspondente: "Bom dia", "Boa tarde" ou "Boa noite".
 
